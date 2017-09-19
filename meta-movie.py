@@ -69,9 +69,6 @@ def search_online(movie_name):
         unidentified.append(movie_name)
         print
 
-
-
-
 def search_movies(fullpath):
     extensions = ['*/', '*.mp4', '*.avi', '*.mkv']
     for ext in extensions:
